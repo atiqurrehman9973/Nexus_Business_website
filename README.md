@@ -19,6 +19,9 @@
 - Tailwind CSS (if used)
 - Git & GitHub for version control
 
+**live Preview
+https://vercel.com/atiqs-projects-25d9eab8/nexus-business-website/ASUci5jFmeLNs5kwbgRpcHWNXfoa
+
 ## Getting Started
 
 1. **Clone the repository**
