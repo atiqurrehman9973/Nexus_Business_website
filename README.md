@@ -20,7 +20,7 @@
 - Git & GitHub for version control
 
 **live Preview
-https://vercel.com/atiqs-projects-25d9eab8/nexus-business-website/ASUci5jFmeLNs5kwbgRpcHWNXfoa
+[https://vercel.com/atiqs-projects-25d9eab8/nexus-business-website/ASUci5jFmeLNs5kwbgRpcHWNXfoa](https://nexus-business-website.vercel.app/)
 
 ## Getting Started
 
